@@ -1,0 +1,16 @@
+{
+  "name": "ata_generator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apocentre/solana-web3": "Apocentre/solana-web3",
+    "@coral-xyz/anchor": "^0.29.0"
+  }
+}
